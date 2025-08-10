@@ -10,5 +10,6 @@ public class Award {
 
         system.startDraw("用户C");
 
+        system.startDraw("用户D");
     }
 }

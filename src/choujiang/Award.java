@@ -8,5 +8,7 @@ public class Award {
         system.setStrategy(new FixedLottery());
         system.startDraw("用户B");
 
+        system.startDraw("用户C");
+
     }
 }
